@@ -1,6 +1,6 @@
 {
 	"name": "homebridge-digipower-pdu",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "HomeBridge plugin for DigiPower PDUs",
 	"license": "AGPL-3.0",
 	"keywords": [
